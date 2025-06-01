@@ -1,5 +1,7 @@
 # Post-It Note Keeper
 
+![demo](demo.gif)
+
 A modern note-taking web application built with React that allows users to create, view, and delete notes in a clean and intuitive interface.
 
 ## Features
